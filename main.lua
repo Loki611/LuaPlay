@@ -1,0 +1,1 @@
+window.Create(800, 600, "Test")
